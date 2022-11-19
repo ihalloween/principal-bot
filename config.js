@@ -1,6 +1,6 @@
 module.exports = {
-  OWNER_IDS: [], // Bot owner ID's
-  SUPPORT_SERVER: "", // Your bot support server
+  OWNER_IDS: ["835126233455919164", "842660014102675468"], // Bot owner ID's
+  SUPPORT_SERVER: "https://discord.gg/7zSvquu2DC", // Your bot support server
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
     DEFAULT_PREFIX: "!", // Default prefix for the bot
@@ -9,7 +9,7 @@ module.exports = {
     SLASH: false, // Should the interactions be enabled
     CONTEXT: false, // Should contexts be enabled
     GLOBAL: false, // Should the interactions be registered globally
-    TEST_GUILD_ID: "xxxxxxxxxxx", // Guild ID where the interactions should be registered. [** Test you commands here first **]
+    TEST_GUILD_ID: "1042467981109768292", // Guild ID where the interactions should be registered. [** Test you commands here first **]
   },
   EMBED_COLORS: {
     BOT_EMBED: "#068ADD",
@@ -24,7 +24,8 @@ module.exports = {
     MEMBERS: 10000,
   },
   MESSAGES: {
-    API_ERROR: "Unexpected Backend Error! Try again later or contact support server",
+    API_ERROR:
+      "Unexpected Backend Error! Try again later or contact support server",
   },
 
   // PLUGINS
@@ -77,7 +78,7 @@ module.exports = {
 
   IMAGE: {
     ENABLED: false,
-    BASE_API: "https://strangeapi.fun/api",
+    BASE_API: "https://www.nabarajrai.com.np/api/image",
   },
 
   INVITE: {

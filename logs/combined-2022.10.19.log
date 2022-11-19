@@ -95,3 +95,97 @@
 {"level":40,"time":1668851957651,"pid":4844,"hostname":"DESKTOP-67AP9QS","msg":"VersionCheck: 5.1.0 update is available"}
 {"level":40,"time":1668851957651,"pid":4844,"hostname":"DESKTOP-67AP9QS","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
 {"level":30,"time":1668851958977,"pid":4844,"hostname":"DESKTOP-67AP9QS","msg":"Logged in as Principal#1849! (1043545249299050516)"}
+{"level":30,"time":1668852642273,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Validating config file and environment variables"}
+{"level":40,"time":1668852642274,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"config.js: OWNER_IDS are empty"}
+{"level":40,"time":1668852642274,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1668852642274,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1668852642301,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loading commands..."}
+{"level":20,"time":1668852642313,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1668852642314,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1668852642345,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1668852642356,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1668852642357,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1668852642357,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1668852642358,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1668852642674,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1668852642675,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1668852642675,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1668852642676,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1668852642681,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1668852642681,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1668852642683,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1668852642684,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1668852642685,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1668852642691,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1668852642692,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1668852642693,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1668852642694,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1668852642695,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1668852642696,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1668852642696,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1668852642697,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1668852642698,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1668852642698,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1668852642698,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1668852642699,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1668852642699,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1668852642700,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1668852642701,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1668852642702,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1668852642703,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1668852642703,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1668852642704,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1668852642705,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1668852642705,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1668852642706,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1668852642706,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1668852642706,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1668852642707,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1668852642708,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1668852642708,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1668852642709,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1668852642709,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1668852642710,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1668852642713,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1668852642713,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1668852642714,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1668852642715,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1668852642715,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1668852642715,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1668852642716,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1668852642717,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1668852642717,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1668852642719,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1668852642719,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1668852642720,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1668852642720,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1668852642721,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1668852642721,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1668852642722,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1668852642722,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1668852642722,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1668852642723,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1668852642723,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1668852642724,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1668852642725,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1668852642725,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1668852642727,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1668852642727,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1668852642728,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1668852642728,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1668852642729,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1668852642730,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1668852642732,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1668852642732,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1668852642741,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loaded 42 commands"}
+{"level":30,"time":1668852642741,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1668852642741,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loading contexts..."}
+{"level":30,"time":1668852642742,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1668852642742,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1668852642742,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loading events..."}
+{"level":30,"time":1668852642774,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1668852642774,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1668852644534,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Mongoose: Database connection established"}
+{"level":50,"time":1668852645125,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"VersionCheck: Failed to check for bot updates"}
+{"level":30,"time":1668852646467,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Logged in as Principal#1849! (1043545249299050516)"}
+{"level":30,"time":1668853106102,"pid":11528,"hostname":"DESKTOP-67AP9QS","msg":"Guild Joined: OMEGA-XI (M5) Computer Science Members: 12"}
