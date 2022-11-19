@@ -2,12 +2,12 @@ const express = require("express"),
   CheckAuth = require("../auth/CheckAuth"),
   router = express.Router();
 
-router.get("/", CheckAuth, async (req, res) => {
-  res.redirect("/selector");
+router.get("/", async (req, res) => {
+  res.render("index");
 });
 
-router.get("/selector", CheckAuth, async (req, res) => {
-  res.render("selector", {
+router.get("/servers", CheckAuth, async (req, res) => {
+  res.render("servers", {
     user: req.userInfos,
     currentURL: `${req.client.config.DASHBOARD.baseURL}/${req.originalUrl}`,
   });
